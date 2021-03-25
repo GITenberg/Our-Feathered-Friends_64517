@@ -1,5 +1,8 @@
 _repo: Our-Feathered-Friends_64517
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64517-h/images/cover.png
 creator:
   authors:
   - agent_name: Grinnell, Joseph
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52918
     wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Grinnell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64517#Our-Feathered-Friends
 gutenberg_issued: '2021-02-10'
 gutenberg_type: Text
 identifiers:
